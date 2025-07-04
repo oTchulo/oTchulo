@@ -74,7 +74,6 @@
 
 ```Java
 
-// 📌 Sobre mim
 
 public class BrenoDinizNascimento {
 
