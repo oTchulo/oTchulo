@@ -13,10 +13,6 @@
     <span style="color: red;">orientação a objetos</span>, <span style="color: red;">UML</span>, <span style="color: red;">JDBC</span>, <span style="color: red;">JavaFX</span>, 
     <span style="color: red;">Spring Boot</span>, <span style="color: red;">JPA</span>, <span style="color: red;">Hibernate</span>, <span style="color: red;">MySQL</span> e <span style="color: red;">MongoDB</span>.
   </p>
-  <p>
-    🔗 <strong>Gosto de aprender sempre</strong> e compartilhar meus <em>projetos</em> por aqui!
-  </p>
-</div>
 
 ---
 
