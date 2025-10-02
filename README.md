@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Breno Diniz Nascimento</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      color: #333;
-      margin: 20px;
-    }
-    h3 {
-      margin-top: 30px;
-    }
-    .icons img {
-      padding-right: 10px;
-    }
-    pre {
-      background: #f5f5f5;
-      padding: 15px;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-  </style>
-</head>
-<body>
-  <div>
+   <div>
     <p>
       👋 Olá! Sou <strong style="color: #0077cc; font-size: 1.2em;">Breno Diniz Nascimento</strong>.
     </p>
@@ -38,7 +11,7 @@
     <p>
       📚 Atualmente estou aprendendo <span style="color: red;"><strong>Java</strong></span> e <span style="color: red;"><strong>Python</strong></span>, além de conceitos como 
       <span style="color: red;">orientação a objetos</span>, <span style="color: red;">UML</span>, <span style="color: red;">JDBC</span>, <span style="color: red;">JavaFX</span>, 
-      <span style="color: red;">JPA</span> e <span style="color: red;">MySQL</span>.
+      <span style="color: red;">JPA</span>, <span style="color: red;">MySQL</span> e <span style="color: red;">Docker</span>.
     </p>
   </div>
 
@@ -70,6 +43,12 @@
       width="30px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
+    <img 
+      alt="Docker" 
+      title="Docker"
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    />
   </div>
   <hr/>
 
@@ -92,6 +71,7 @@ public class BrenoDinizNascimento {
         boolean python = true;
         boolean mySQL = true;
         boolean git = true;
+        boolean docker = true;
     }
 
     public static void contato() {
