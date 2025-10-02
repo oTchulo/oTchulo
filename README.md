@@ -76,7 +76,7 @@ public class BrenoDinizNascimento {
         String linkedin = "https://www.linkedin.com/in/brenodiniznascimento/";
         String github = "https://github.com/oTchulo";
         String instagram = "https://www.instagram.com/o.tchulo/";
-        String email = "br3nozy@gmail.com";
+        String email = "dev.tchulo@gmail.com";
     }
 }
 
