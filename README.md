@@ -67,7 +67,6 @@ public class BrenoDinizNascimento {
     public static void habilidades() {
         boolean java = true;
         boolean python = true;
-        boolean springBoot = true;
         boolean mySQL = true;
         boolean git = true;
     }
