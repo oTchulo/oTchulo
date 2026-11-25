@@ -7,12 +7,6 @@
     </p>
     <p>
       🚀 Trabalho com <span style="color: red;"><strong>desenvolvimento de softwares</strong></span>, criando <em>soluções práticas e eficientes</em>.
-    </p>
-    <p>
-      📚 Atualmente estou aprendendo <span style="color: red;"><strong>Java</strong></span> e <span style="color: red;"><strong>Python</strong></span>, além de conceitos como 
-      <span style="color: red;">orientação a objetos</span>, <span style="color: red;">UML</span>, <span style="color: red;">JDBC</span>, <span style="color: red;">JavaFX</span>, 
-      <span style="color: red;">JPA</span>, <span style="color: red;">MySQL</span> e <span style="color: red;">Docker</span>.
-    </p>
   </div>
 
   <hr/>
